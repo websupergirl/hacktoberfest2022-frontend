@@ -1,6 +1,15 @@
 <p align="center">
+  <a href="https://www.gatsbyjs.com">
+    <img alt="Gatsby" src="https://user-images.githubusercontent.com/38568655/197082856-927f23da-5494-4a2f-aec4-78c9422c42e4.png" width="160" height="160" />
+  </a>
   <a href="https://www.medusa-commerce.com">
-    <img alt="Medusa" src="https://user-images.githubusercontent.com/7554214/153162406-bf8fd16f-aa98-4604-b87b-e13ab4baf604.png" width="100" />
+    <img alt="Medusa" src="https://user-images.githubusercontent.com/38568655/197082853-5469178f-a9b7-49ba-b784-0a2d0fb4112a.png" width="160" height="160" />
+  </a>
+  <a href="https://wordpress.org">
+    <img alt="WordPress" src="https://user-images.githubusercontent.com/38568655/197082855-2c90226f-9169-442a-ba15-b7d5ae561aa2.png" width="100" height="160" />
+  </a>
+  <a href="https://supernikole.com">
+    <img alt="That Super Girl" src="https://user-images.githubusercontent.com/38568655/197082858-ea6f2026-8b7a-4dd7-9bca-8c9939228834.png" width="160" height="160" />
   </a>
 </p>
 <h1 align="center">
