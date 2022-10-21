@@ -6,7 +6,7 @@
     <img alt="Medusa" src="https://user-images.githubusercontent.com/38568655/197082853-5469178f-a9b7-49ba-b784-0a2d0fb4112a.png" width="160" height="160" />
   </a>
   <a href="https://wordpress.org">
-    <img alt="WordPress" src="https://user-images.githubusercontent.com/38568655/197082855-2c90226f-9169-442a-ba15-b7d5ae561aa2.png" width="100" height="160" />
+    <img alt="WordPress" src="https://user-images.githubusercontent.com/38568655/197082855-2c90226f-9169-442a-ba15-b7d5ae561aa2.png" width="160" height="160" />
   </a>
   <a href="https://supernikole.com">
     <img alt="That Super Girl" src="https://user-images.githubusercontent.com/38568655/197082858-ea6f2026-8b7a-4dd7-9bca-8c9939228834.png" width="160" height="160" />
