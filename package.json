@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-medusa",
-  "description": "A starter to get you started with building your e-commerce site with Medusa and Gatsby",
-  "version": "2.0.0",
-  "author": "Kasper Fabricius Kristensen <kasper@medusajs.com>",
+  "name": "hacktoberfest2022-frontend",
+  "description": "A frontend for a WordPress/Medusa/Gatsby Integration",
+  "version": "1.0.0",
+  "author": "Nikole Garcia <nikole@thatsupergirl.com>",
   "dependencies": {
     "@headlessui/react": "^1.4.2",
     "@mdx-js/mdx": "^1.6.22",
@@ -21,19 +21,24 @@
     "gatsby-plugin-react-helmet": "^5.0.0",
     "gatsby-plugin-sharp": "^4.0.1",
     "gatsby-source-filesystem": "^4.0.0",
+    "gatsby-source-wordpress": "^6.0.0",
     "gatsby-source-medusa": "^0.0.41",
     "gatsby-transformer-sharp": "^4.0.0",
+    "html-react-parser": "^1.1.1",
     "lodash": "^4.17.21",
     "postcss": "^8.4.5",
     "prop-types": "^15.7.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-helmet": "^6.1.0",
+    "typeface-merriweather": "1.1.13",
+    "typeface-montserrat": "1.1.13",
     "yup": "^0.32.11"
   },
   "devDependencies": {
     "@babel/core": "^7.16.0",
     "babel-loader": "^8.2.3",
+    "dumper.js": "^1.3.1",
     "prettier": "^2.4.1",
     "tailwindcss": "^3.0.1"
   },
@@ -44,7 +49,9 @@
     "gatsby",
     "medusa",
     "e-commerce",
-    "medusa-storefront"
+    "medusa-storefront",
+    "wordpress",
+    "cms"
   ],
   "license": "MIT",
   "scripts": {
@@ -58,9 +65,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/medusajs/gatsby-starter-medusa"
+    "url": "https://github.com/websupergirl/hacktoberfest2022-frontend"
   },
   "bugs": {
-    "url": "https://github.com/medusajs/gatsby-starter-medusa/issues"
+    "url": "https://github.com/websupergirl/hacktoberfest2022-frontend/issues"
   }
 }
