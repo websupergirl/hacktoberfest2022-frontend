@@ -49,5 +49,19 @@ module.exports = {
           process.env.GATSBY_MEDUSA_BACKEND_URL || `http://localhost:9000`,
       },
     },
+    {
+      resolve: `gatsby-source-wordpress`,
+      options: {
+        url:
+          process.env.WPGRAPHQL_URL || `http://hacktober.local/graphql`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `assets`,
+        path: `${__dirname}/src/content/assets`,
+      },
+    },
   ],
 }

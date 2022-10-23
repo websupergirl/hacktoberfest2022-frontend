@@ -77,4 +77,6 @@ gatsby develop
 ### Development Update log
 (for my mental sanity)
 
+> added basic wordpress blog pulling capabilities
+>
 > modified readme to add better instructions
