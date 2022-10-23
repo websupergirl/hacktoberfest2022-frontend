@@ -57,6 +57,5 @@ module.exports = {
           process.env.WPGRAPHQL_URL || `https://wpgatsbydemo.wpengine.com/graphql`,
       },
     },
-    },
   ],
 }
