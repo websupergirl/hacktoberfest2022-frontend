@@ -70,6 +70,11 @@ gatsby develop
 
    Open the your app's directory in your code editor of choice and edit `src/pages/index.jsx`. Save your changes and the browser will update in real time!
 
+### Demo & Status
+
+This site is currently [available as a live demo](https://steady-gumdrop-8afa5c.netlify.app/), integrated with Netlify.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/89d6cf03-104d-4591-b0fa-54a432d58430/deploy-status)](https://app.netlify.com/sites/steady-gumdrop-8afa5c/deploys)
+
 ---
 
 ---
