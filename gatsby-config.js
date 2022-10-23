@@ -57,12 +57,6 @@ module.exports = {
           process.env.WPGRAPHQL_URL || `https://wpgatsbydemo.wpengine.com/graphql`,
       },
     },
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        name: `assets`,
-        path: `${__dirname}/src/content/assets`,
-      },
     },
   ],
 }
