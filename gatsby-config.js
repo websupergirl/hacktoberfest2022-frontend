@@ -53,7 +53,7 @@ module.exports = {
       resolve: `gatsby-source-wordpress`,
       options: {
         url:
-          process.env.WPGRAPHQL_URL || `http://hacktober.local/graphql`,
+          process.env.WPGRAPHQL_URL || `https://wpgatsbydemo.wpengine.com/graphql`,
       },
     },
     {
